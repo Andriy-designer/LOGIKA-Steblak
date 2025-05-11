@@ -1,0 +1,42 @@
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 1px dashed rgb(0, 0, 0);
+    justify-content: center;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin: 30px;
+}
+body{
+    background-image: url("https://uswalldecor.com/cdn/shop/files/RMK12279M.jpg?v=1695064926");
+}
+.logo{
+    height:200px;
+    width:300px;
+}
+.HP{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+.head_img{
+    height:270px;
+}
+h2{
+    text-align: center;
+    color:blue;
+}
+.wasa{
+    text-align: center;
+}
+.qdas{
+    text-align:center;
+}
+.stay{
+    text-align: center;
+}
